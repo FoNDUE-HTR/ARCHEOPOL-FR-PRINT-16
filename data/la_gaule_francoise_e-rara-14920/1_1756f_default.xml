@@ -22,14 +22,6 @@
                   VPOS="0"
                   WIDTH="1105"
                   HEIGHT="1951">
-        <TextBlock HPOS="371.0"
-                   VPOS="528.0"
-                   WIDTH="499.0"
-                   HEIGHT="757.0"
-                   ID="eSc_textblock_675c1d7e"
-                   TAGREFS="BT19">
-          <Shape><Polygon POINTS="371 528 371 1285 870 1285 870 528"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

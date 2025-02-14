@@ -10,6 +10,9 @@ This repo contains the transcription of 16th c. prints.
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Hotman, François | [_La Gaule françoise_](https://doi.org/10.3931/e-rara-14920) | 1574     | Geneva   | Le Preux  | L. Paoli     | L. Paoli      |
 | Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     | L. Paoli      |
+| de Coras,  Jean | [_Question Politique_] (https://books.google.ch/books?id=7cLTKl76iJsC) | 1570     | London   | Barthélemy Berton | A. Bianco     | A. Bianco      |
+| de Bèze,  Théodore | [_Du droit des Magistrats sur leurs subjets_] (https://doi.org/10.3931/e-rara-1064) | 1574     | Bern  | Jacob Stoer | N. Champeaux     | -  |
+| Cosmopolite,  Eusèbe Philadelphe | [_Le reveille-matin des François et de leurs voisins_] (https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001100467328) | 1574 | Lyon | Le Preux | N. Champeaux | - |
 
 
 

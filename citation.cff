@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "FONDUE-CA-PRINT-20"
+title: "ARCHEOPOL-FR-PRINT-16"
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
@@ -10,16 +10,19 @@ authors:
     email: simon.gabay@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0000-0001-9094-4475
-authors:
   - family-names: Paoli
     given-names: Lorenzo
     email: lorenzo.paoli@unige.ch
     affiliation: Geneva University
     orcid: https://orcid.org/0009-0009-3911-261X
+  - family-names: Bianco
+    given-names: Alyzé
+    email: alyze.bianco@unige.ch
+    affiliation: Geneva University
+    orcid: https://orcid.org/0009-0001-8423-0350
 repository-code: 'https://github.com/FoNDUE-HTR/ARCHEOPOL-FR-PRINT-16'
 keywords:
   - HTR
-  - catalan
   - modern
   - print
 version: 1.0

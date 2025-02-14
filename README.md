@@ -9,7 +9,8 @@ This repo contains the transcription of 16th c. prints.
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Hotman, François | [_La Gaule françoise_](https://doi.org/10.3931/e-rara-14920) | 1574     | Geneva   | Le Preux  | L. Paoli     | L. Paoli      |
-|
+| Iunius Brutus, Stephanus | [De La Puissance Legitime du Prince] (https://doi.org/10.3931/e-rara-6435) | 1581     | Geneva   | s.n. | L. Paoli     | L. Paoli      |
+
 
 
 ## How to cite

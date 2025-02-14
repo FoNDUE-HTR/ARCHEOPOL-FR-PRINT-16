@@ -521,22 +521,6 @@
                     WC="0.998874564965566"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="294.0"
-                   VPOS="274.0"
-                   WIDTH="6.0"
-                   HEIGHT="9.0"
-                   ID="eSc_textblock_27a15e0d"
-                   >
-          <Shape><Polygon POINTS="294 283 294 274 300 274 300 283"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="243.0"
-                   VPOS="408.0"
-                   WIDTH="248.0"
-                   HEIGHT="247.0"
-                   ID="eSc_textblock_a68c60df"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="243 408 243 655 491 655 487 408"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

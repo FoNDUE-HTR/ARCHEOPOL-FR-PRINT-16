@@ -523,22 +523,6 @@
                     WC="0.9999393224716187"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="897.0"
-                   VPOS="1565.0"
-                   WIDTH="92.0"
-                   HEIGHT="45.0"
-                   ID="eSc_textblock_168a498a"
-                   TAGREFS="BT17">
-          <Shape><Polygon POINTS="897 1565 897 1609 989 1610 984 1566"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="373.0"
-                   VPOS="1608.0"
-                   WIDTH="26.0"
-                   HEIGHT="1.0"
-                   ID="eSc_textblock_5c477c1d"
-                   >
-          <Shape><Polygon POINTS="399 1608 399 1609 373 1609 373 1608"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

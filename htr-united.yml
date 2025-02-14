@@ -34,87 +34,89 @@ characters:
   - r
   - o
   - l
-  - s
   - ſ
+  - s
   - d
   - c
-  - m
   - p
+  - m
   - ','
   - q
   - ’
   - y
   - .
-  - g
   - f
-  - ¬
+  - g
   - '&'
+  - ¬
   - b
-  - v
   - h
-  - ̃
+  - v
   - ̀
   - ́
   - R
+  - ̃
   - x
   - E
   - C
   - A
   - ':'
-  - F
-  - G
-  - L
+  - I
   - P
   - S
-  - I
-  - z
-  - ̧
-  - '1'
   - D
-  - V
+  - L
+  - F
+  - '1'
+  - z
+  - G
   - M
   - O
+  - '2'
+  - V
   - '-'
   - N
+  - ̧
   - T
-  - '2'
   - '4'
-  - Q
   - '3'
-  - (
-  - )
   - '6'
-  - '5'
+  - Q
   - B
+  - '5'
   - '7'
-  - H
   - '8'
   - '9'
+  - )
+  - (
   - '0'
+  - H
+  - '?'
   - æ
   - "'"
-  - ̈
-  - '?'
   - œ
   - X
+  - j
+  - ̈
   - ¶
+  - Z
   - ̂
   - Y
   - '*'
-  - j
-  - Z
-  - ᑕ
-  - φ
-  - U
-  - ᗞ
   - ;
+  - ᑕ
+  - U
   - ̨
+  - ᗅ
+  - k
+  - φ
+  - ᗞ
+  - ς
   - ω
   - ψ
   - ζ
   - χ
   - θ
-  - ᗅ
   - ꝰ
   mode: NFD
 description: >-
@@ -144,13 +146,13 @@ time:
 title: 'Archeo-pol: OCR dataset'
 url: https://github.com/FoNDUE-HTR/ARCHEOPOL-FR-PRINT-16
 volume:
-- count: 159607
+- count: 352116
   metric: characters
-- count: 170
+- count: 526
   metric: files
-- count: 4825
+- count: 17302
   metric: lines
 - count: 800
   metric: pages
-- count: 643
+- count: 2605
   metric: regions

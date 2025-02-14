@@ -6,7 +6,6 @@ This repo contains the transcription of 16th c. prints.
 
 ## Content
 
-|------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Author           | Title                | Date     | Location | Publisher | Segmentation | Transcription |
 |------------------|----------------------|----------|----------|-----------|--------------|---------------|
 | Hotman, François | [_La Gaule françoise_](https://doi.org/10.3931/e-rara-14920) | 1574     | Geneva   | Le Preux  | L. Paoli     | L. Paoli      |

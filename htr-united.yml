@@ -26,130 +26,92 @@ characters:
   members:
   - e
   - u
-  - i
   - a
   - n
-  - r
+  - i
   - t
-  - s
+  - r
   - o
   - l
+  - s
+  - ſ
   - d
   - c
-  - ſ
-  - p
   - m
+  - p
   - ','
   - q
   - ’
   - y
-  - f
+  - .
   - g
+  - f
+  - ¬
   - '&'
   - b
-  - .
-  - ¬
-  - v
   - h
-  - ́
-  - ̀
-  - x
+  - v
   - ̃
+  - ̀
   - R
-  - ':'
-  - E
-  - C
-  - I
-  - z
+  - ́
+  - x
   - A
-  - P
-  - D
+  - C
+  - E
+  - ':'
+  - F
+  - G
   - L
   - S
-  - '-'
-  - M
-  - F
+  - P
+  - I
+  - z
+  - ̧
   - '1'
   - O
-  - G
+  - '-'
   - V
+  - D
+  - M
+  - N
   - T
   - '2'
-  - "'"
-  - (
-  - )
-  - Q
-  - ̧
-  - N
   - '4'
-  - B
   - '3'
-  - H
-  - '?'
   - '6'
   - '5'
+  - (
+  - )
   - '7'
+  - Q
+  - B
+  - H
   - '8'
-  - '0'
   - '9'
-  - œ
-  - ̈
-  - j
-  - ;
+  - '0'
   - æ
-  - '!'
-  - X
-  - Z
-  - ̂
+  - ̈
+  - "'"
   - ¶
-  - '"'
-  - Y
+  - œ
+  - X
+  - ̂
+  - '?'
   - '*'
-  - U
-  - K
-  - J
-  - 
-  - k
-  - »
-  - ̨
-  - ɇ
-  - '~'
-  - /
-  - ß
+  - Y
+  - Z
   - ᑕ
-  - ᗅ
-  - ꝯ
-  - ꝰ
-  - Α
-  - ']'
-  - —
-  - ᗞ
-  - ς
-  - Æ
   - φ
-  - ¡
-  - ⁹
+  - ;
+  - ̨
   - ω
   - ψ
   - ζ
   - χ
   - θ
-  - “
-  - ⬪
-  - ε
-  - σ
-  - w
-  - Σ
-  - ꝙ
-  - ·
-  - °
-  - «
-  - ν
-  - Θ
-  - ¿
-  - Œ
-  - ★
-  - ☙
+  - ᗅ
+  - ꝰ
   mode: NFD
 description: >-
   Ce dépôt regroupe les données du corpus principal du projet de recherche en
@@ -178,13 +140,13 @@ time:
 title: 'Archeo-pol: OCR dataset'
 url: https://github.com/FoNDUE-HTR/ARCHEOPOL-FR-PRINT-16
 volume:
-- count: 1045057
+- count: 142373
   metric: characters
-- count: 1117
+- count: 151
   metric: files
-- count: 37177
+- count: 4311
   metric: lines
 - count: 800
   metric: pages
-- count: 6122
+- count: 563
   metric: regions
